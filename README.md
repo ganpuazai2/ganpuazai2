@@ -17,4 +17,4 @@ More about me and everything I'm building: **[heyjavier.sg](https://heyjavier.sg
 
 JavaScript, Node.js, Vercel, n8n, Telegram bots, and Claude for agents and automation.
 
-Say hi at **[heyjavier.sg](https://heyjavier.sg)**.
+
